@@ -3,7 +3,7 @@
 ### BE FIT
 This website is about the GYM and it gives you information about the gym, the monthly prices, the features, the about us and also it shows you the qualified trainers that can help you out. 
 
-A live website can be found here (https://8000-jervisnoronha-ecommerce-ktcq1c4a9tl.ws-eu77.gitpod.io/)
+A live website can be found here (https://jervisnoronha.github.io/E-commerce/)
 
 ## FEATURES
 
