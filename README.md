@@ -1,9 +1,10 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+
 
 ### BE FIT
+This website is about the GYM and it gives you information about the gym, the monthly prices, the features, the about us and also it shows you the qualified trainers that can help you out. 
 
-
-## Gitpod Reminders
+A live website can be found here (https://8000-jervisnoronha-ecommerce-ktcq1c4a9tl.ws-eu77.gitpod.io/)
+## Gitpod Reminders 
 
 To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
 
